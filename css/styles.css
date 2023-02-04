@@ -1,0 +1,30 @@
+body {
+    background-color: #FAEAB1;
+    color: #050313;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    color: #E5BA73;
+    border-width: 5px;
+    width: 6%;
+}
+
+img {
+    height: 60px;
+}
+
+h1 {
+    color: #050313;
+}
+
+h2 {
+    color: #050313;
+}
+
+h3 {
+    color: #050313;
+}
+
+/* https://colorhunt.co/palette/faf8f1faeab1e5ba73c58940 */
